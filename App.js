@@ -11,6 +11,7 @@ const HelloWorldApp = () => {
       }}>
       <Text>Hello World from Group 7 Gustavs Oto Cers</Text>
       <text>This is my Gustavs Oto Cers first React Native application</text>
+      <Image source={require('./bilde.jpg')} />
     </View>
   )
 }
